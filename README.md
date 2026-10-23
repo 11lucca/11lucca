@@ -1,16 +1,37 @@
-## Hi there 👋
+# Lucca
+### Desenvolvedor Full Stack
 
-<!--
-**11lucca/11lucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvimento de aplicações web, sistemas de gestão e sites para empresas e profissionais. Foco em organização de processos, usabilidade e soluções alinhadas às necessidades de cada negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soluções
+
+**Sistemas de gestão e ERP**  
+Controle de estoque, vendas, cadastros, financeiro e relatórios.
+
+**Landing pages**  
+Páginas para apresentar serviços, divulgar produtos e captar novos clientes.
+
+**Sites institucionais**  
+Sites responsivos com navegação intuitiva e identidade visual consistente.
+
+**Integrações e APIs**  
+Conexão entre aplicações, sistemas e serviços externos para automatizar processos.
+
+---
+
+## Tecnologias
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Front-end** | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
+| **Back-end** | Node.js · Express · APIs REST |
+| **Banco de dados** | PostgreSQL · MySQL · Prisma |
+| **Ferramentas** | Git · GitHub · Docker |
+
+---
+
+## Disponibilidade
+
+Disponível para desenvolvimento de sites, sistemas personalizados, integrações e melhorias em aplicações existentes.
